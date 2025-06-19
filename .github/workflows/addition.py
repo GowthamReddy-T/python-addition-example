@@ -10,3 +10,7 @@ b = 5
 res = add(a,b)
 
 print(res)
+
+# double print
+
+print(res)
