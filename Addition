@@ -11,3 +11,4 @@ b = 5
 res = add(a,b)
 
 print(res)
+print(res)
